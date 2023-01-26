@@ -1,0 +1,20 @@
+tempo 
+
+////////////
+from datetime import datetime
+data = {'Nome': input('Nome: ')}
+ano = int(input('Ano de Nascimento: '))
+data['Idade'] = (datetime.now().year - ano)
+
+//////////////
+from datetime import date
+atual = date.today().year
+
+###################################
+ordenar biblioetcas 
+
+from operator import itemgetter
+ranki = sorted(jogo.items(),  key=lambda item: item[1], reverse=True)
+
+###################################
+
