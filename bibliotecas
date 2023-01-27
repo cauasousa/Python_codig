@@ -17,4 +17,10 @@ from operator import itemgetter
 ranki = sorted(jogo.items(),  key=lambda item: item[1], reverse=True)
 
 ###################################
+Demora para executar o tempo
 
+from time import sleep
+
+print(c, end=' ', flush=True)
+sleep(0.5)
+###################################

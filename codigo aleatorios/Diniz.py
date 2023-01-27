@@ -27,11 +27,13 @@ def encontrarFuncionario(cpfFuncionario):
   for i in funcionarios:
     if  i['CPF'] == cpfFuncionario:
       return i
+
 def cadastrar():
   telefones = list()
   nome = input('\nNome do funcionario:\n')
   cpf = input('\nCFP:\n')
   cpfPesquisa = encontrarFuncionario(cpf)
+  
   while cpfPesquisa in funcionarios:
     cpf = input('\nErro: CPF já cadastrado!\nAdicionar CFP válido:\n')
     cpfPesquisa = encontrarFuncionario(cpf)
