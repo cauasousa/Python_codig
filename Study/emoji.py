@@ -1,8 +1,3 @@
-#import math
-#from math import (dar o Ctrl + espacço) //vai aparecer as funções
-#form math import ceil, floor       ///duas funções
-#math.ceil()
-
 import random
 import emoji
 
