@@ -1,0 +1,16 @@
+{
+    "1" : {
+        "origem":"Caxias", 
+        "destino":"Bacabal", 
+        "distancia": 200.0, 
+        "motorista":11111, 
+        "veiculo":"BCC009"
+    },
+    "2" : {
+        "origem":"Caxias", 
+        "destino":"Bacabal", 
+        "distancia": 200.0, 
+        "motorista":11111, 
+        "veiculo":"BCC009"
+    }
+}

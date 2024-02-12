@@ -1,0 +1,14 @@
+{
+    "1":{
+        "custo":1000.0, 
+        "tipo":"preventiva",
+        "data":"02-02-2023", 
+        "veiculo":"BCC009"
+    },
+    "2": {
+        "custo":1000.0, 
+        "tipo":"preventiva",
+        "data":"02-02-2023", 
+        "veiculo":"BCC009"
+    }
+}

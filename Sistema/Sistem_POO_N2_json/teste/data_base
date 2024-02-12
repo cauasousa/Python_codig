@@ -1,0 +1,123 @@
+[
+
+    {
+        "11111":{
+            "nome":"François", 
+            "cpf":11111, 
+            "rg":"223212", 
+            "cnh":"34221"
+        },
+        "22222":{
+            "nome":"Ana", 
+            "cpf":22222, 
+            "rg":"223212", 
+            "cnh":"34221"
+        },
+        "33333":{
+            "nome":"Maria", 
+            "cpf":33333, 
+            "rg":"223212", 
+            "cnh":"34221"
+        }
+    },
+
+
+    
+    {
+        "BCC009": {
+            "marca": "Fiat",
+            "modelo": "UNO",
+            "ano": "2003",
+            "placa": "BCC009",
+            "chassi": "36563652",
+            "cor": "Branco",
+            "km": 500.0
+        },
+        "BCC006": {
+            "marca": "Fiat",
+            "modelo": "Toro",
+            "ano": "2003",
+            "placa": "BCC006",
+            "chassi": "36563652",
+            "cor": "Branco",
+            "km": 500
+        },
+        "BCC008": {
+            "marca": "Fiat",
+            "modelo": "Argo",
+            "ano": "2003",
+            "placa": "BCC007",
+            "chassi": "36563652",
+            "cor": "Branco",
+            "km": 500
+        }
+    },
+
+
+
+
+    {
+        "1" : {
+            "origem":"Caxias", 
+            "destino":"Bacabal", 
+            "distancia": 200.0, 
+            "motorista":11111, 
+            "veiculo":"BCC009"
+        },
+        "2" : {
+            "origem":"Caxias", 
+            "destino":"Bacabal", 
+            "distancia": 200.0, 
+            "motorista":11111, 
+            "veiculo":"BCC009"
+        }
+    },
+
+
+
+
+
+
+    {
+        "1":{
+            "custo":1000.0, 
+            "tipo":"preventiva",
+            "data":"02-02-2023", 
+            "veiculo":"BCC009"
+        },
+        "2": {
+            "custo":1000.0, 
+            "tipo":"preventiva",
+            "data":"02-02-2023", 
+            "veiculo":"BCC009"
+        }
+    },
+
+
+
+
+
+    {
+        "1":{
+            "valor":400.0,
+            "data":"4-2-2023",
+            "quant":150,
+            "veiculo":"BCC009"
+        },
+        "2":{
+            "valor":400.0,
+            "data":"4-2-2023",
+            "quant":150,
+            "veiculo":"BCC009"
+        },
+        "3":{
+            "valor":400.0,
+            "data":"4-2-2023",
+            "quant":150,
+            "veiculo":"BCC009"
+        }
+    }
+
+
+    
+]

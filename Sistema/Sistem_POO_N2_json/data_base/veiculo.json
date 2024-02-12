@@ -1,0 +1,29 @@
+{
+    "BCC009": {
+        "marca": "Fiat",
+        "modelo": "UNO",
+        "ano": "2003",
+        "placa": "BCC009",
+        "chassi": "36563652",
+        "cor": "Branco",
+        "km": 500.0
+    },
+    "BCC006": {
+        "marca": "Fiat",
+        "modelo": "Toro",
+        "ano": "2003",
+        "placa": "BCC006",
+        "chassi": "36563652",
+        "cor": "Branco",
+        "km": 500
+    },
+    "BCC008": {
+        "marca": "Fiat",
+        "modelo": "Argo",
+        "ano": "2003",
+        "placa": "BCC007",
+        "chassi": "36563652",
+        "cor": "Branco",
+        "km": 500
+    }
+}
